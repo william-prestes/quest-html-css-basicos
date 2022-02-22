@@ -1,10 +1,10 @@
+th, td{
+    padding: 10px;
+}
+
 .tabela {
     background-color: #ffffff;
     color: #ffffff;
-}
-
-.fundo-tabela {
-    background-color: #424250;
 }
 
 .cabecalho-moda {
@@ -13,4 +13,9 @@
 
 .cabecalho-casa {
     background-color: #00C4B4;
+}
+
+.fundo-tabela {
+    background-color: #424250;
+    padding: 25px;
 }
